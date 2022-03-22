@@ -64,6 +64,23 @@ body {
 }
 
 
+.phone-photo{
+    position: absolute;
+    z-index: 101;
+    width:30vw;
+    top:0vw;
+    left:65vw;
+}
+
+.address-photo{
+    position: absolute;
+    z-index: 101;
+    width:30vw;
+    top:3vw;
+    left:65vw;
+}
+
+
 /* SLIDER style */
 
 
@@ -147,7 +164,7 @@ body {
 }
 
 .center{
-    top:15vw;
+    top:16vw;
     width: 40vw;
     height: 40vw;
     left: 30vw;
